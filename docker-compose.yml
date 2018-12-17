@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  app_crawler:
+    container_name: crawler_app
+    build:
+      context: ./
+      dockerfile: Dockerfile-up
+    command: python main.py
+    working_dir: /app
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./:/app
+    env_file:
+      - ./.env

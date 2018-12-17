@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  app_crawler:
+    build:
+      context: ./
+      dockerfile: Dockerfile-dev
+    command: tail -f /dev/null
+    container_name: crawler_application
