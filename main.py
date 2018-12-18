@@ -1,4 +1,3 @@
-# pylint: skip-file
 from app import app
 from views import views
 

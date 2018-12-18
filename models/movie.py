@@ -1,3 +1,5 @@
+import json
+
 from configuration.mongodb_config import get_mongo_connection
 
 
@@ -24,14 +26,22 @@ class Movie:
                     "genre": self.genre}
         return dict_res
 
+    def to_json(self):
+        return json.dumps(self, default=lambda o: o.__dict__)
+
     def save_movie(self):
-        client_mongo = get_mongo_connection()
-        db = client_mongo.movie
-        movie_id = db.insert_one(self.to_dict()).inserted_id
+        client = get_mongo_connection()
+        db = client.get_database()
+        movie_db = db['movie']
+        movie_id = movie_db.insert_one(self.to_dict()).inserted_id
+
         return movie_id
 
-    def save_movies(self, movies):
-        client_mongo = get_mongo_connection()
-        db = client_mongo.movie
-        result = db.insert_many(movies)
+    @staticmethod
+    def save_movies(movies):
+        client = get_mongo_connection()
+        db = client.get_database()
+        movie_db = db['movie']
+        result = movie_db.insert_many(movies)
+
         return result.inserted_ids
