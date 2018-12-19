@@ -1,0 +1,2498 @@
+[
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36b4"
+        },
+        "id": 1,
+        "title": "Aquaman",
+        "runtime": 143,
+        "summary": "Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.",
+        "year": 2018,
+        "rating": 7.9,
+        "stars": [
+            "Jason Momoa",
+            "Amber Heard",
+            "Willem Dafoe",
+            "Patrick Wilson"
+        ],
+        "directors": [
+            "James Wan"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36b5"
+        },
+        "id": 2,
+        "title": "Homem-Aranha no Aranhaverso",
+        "runtime": 117,
+        "summary": "Miles Morales becomes the Spider-Man of his reality and crosses paths with his counterparts from other dimensions to stop a threat to all reality.",
+        "year": 2018,
+        "rating": 8.8,
+        "stars": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld",
+            "Mahershala Ali"
+        ],
+        "directors": [
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "Rodney Rothman"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36b6"
+        },
+        "id": 3,
+        "title": "Vingadores: Ultimato",
+        "runtime": 0,
+        "summary": "In the aftermath of Thanos wiping out half of all life in the universe, the remaining Avengers must do what's necessary to undo the Mad Titan's deed.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Brie Larson",
+            "Karen Gillan",
+            "Scarlett Johansson",
+            "Bradley Cooper"
+        ],
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36b7"
+        },
+        "id": 4,
+        "title": "Máquinas Mortais",
+        "runtime": 128,
+        "summary": "In a post-apocalyptic world where cities ride on wheels and consume each other to survive, two people meet in London and try to stop a conspiracy.",
+        "year": 2018,
+        "rating": 6.5,
+        "stars": [
+            "Hera Hilmar",
+            "Robert Sheehan",
+            "Hugo Weaving",
+            "Jihae"
+        ],
+        "directors": [
+            "Christian Rivers"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36b8"
+        },
+        "id": 5,
+        "title": "Bumblebee",
+        "runtime": 113,
+        "summary": "On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.",
+        "year": 2018,
+        "rating": 7.2,
+        "stars": [
+            "Hailee Steinfeld",
+            "Dylan O'Brien",
+            "Megyn Price",
+            "John Cena"
+        ],
+        "directors": [
+            "Travis Knight"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36b9"
+        },
+        "id": 6,
+        "title": "Godzilla II: Rei dos Monstros",
+        "runtime": 0,
+        "summary": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Millie Bobby Brown",
+            "Vera Farmiga",
+            "Sally Hawkins",
+            "Ziyi Zhang"
+        ],
+        "directors": [
+            "Michael Dougherty"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ba"
+        },
+        "id": 7,
+        "title": "Venom",
+        "runtime": 112,
+        "summary": "When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego \"Venom\" to save his life.",
+        "year": 2018,
+        "rating": 6.9,
+        "stars": [
+            "Tom Hardy",
+            "Michelle Williams",
+            "Riz Ahmed",
+            "Scott Haze"
+        ],
+        "directors": [
+            "Ruben Fleischer"
+        ],
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36bb"
+        },
+        "id": 8,
+        "title": "Capitã Marvel",
+        "runtime": 0,
+        "summary": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Brie Larson",
+            "Gemma Chan",
+            "Jude Law",
+            "Mckenna Grace"
+        ],
+        "directors": [
+            "Anna Boden",
+            "Ryan Fleck"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36bc"
+        },
+        "id": 9,
+        "title": "Vingadores: Guerra Infinita",
+        "runtime": 149,
+        "summary": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "year": 2018,
+        "rating": 8.5,
+        "stars": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo",
+            "Chris Evans"
+        ],
+        "directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36bd"
+        },
+        "id": 10,
+        "title": "Robin Hood - A Origem (I)",
+        "runtime": 116,
+        "summary": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown in a thrilling action-adventure packed with gritty battlefield exploits, mind-blowing fight choreography, and a timeless romance.",
+        "year": 2018,
+        "rating": 5.4,
+        "stars": [
+            "Taron Egerton",
+            "Jamie Foxx",
+            "Ben Mendelsohn",
+            "Eve Hewson"
+        ],
+        "directors": [
+            "Otto Bathurst"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36be"
+        },
+        "id": 11,
+        "title": "2.0",
+        "runtime": 148,
+        "summary": "Scientists help the government investigate a threat beyond understanding.",
+        "year": 2018,
+        "rating": 7.3,
+        "stars": [
+            "Rajinikanth",
+            "Akshay Kumar",
+            "Amy Jackson",
+            "Adil Hussain"
+        ],
+        "directors": [
+            "S. Shankar"
+        ],
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36bf"
+        },
+        "id": 12,
+        "title": "Missão: Impossível - Efeito Fallout",
+        "runtime": 147,
+        "summary": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+        "year": 2018,
+        "rating": 7.9,
+        "stars": [
+            "Tom Cruise",
+            "Henry Cavill",
+            "Ving Rhames",
+            "Simon Pegg"
+        ],
+        "directors": [
+            "Christopher McQuarrie"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c0"
+        },
+        "id": 13,
+        "title": "O Predador",
+        "runtime": 107,
+        "summary": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+        "year": 2018,
+        "rating": 5.5,
+        "stars": [
+            "Boyd Holbrook",
+            "Trevante Rhodes",
+            "Jacob Tremblay",
+            "Keegan-Michael Key"
+        ],
+        "directors": [
+            "Shane Black"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Horror"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c1"
+        },
+        "id": 14,
+        "title": "Sonic the Hedgehog",
+        "runtime": 0,
+        "summary": "A cop in rural town of Green Hills will help Sonic escape from the government who is looking to capture him.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Jim Carrey",
+            "Ben Schwartz",
+            "James Marsden",
+            "Neal McDonough"
+        ],
+        "directors": [
+            "Jeff Fowler"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c2"
+        },
+        "id": 15,
+        "title": "Jogador Nº 1",
+        "runtime": 140,
+        "summary": "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.",
+        "year": 2018,
+        "rating": 7.5,
+        "stars": [
+            "Tye Sheridan",
+            "Olivia Cooke",
+            "Ben Mendelsohn",
+            "Lena Waithe"
+        ],
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c3"
+        },
+        "id": 16,
+        "title": "A Justiceira",
+        "runtime": 101,
+        "summary": "Five years after her husband and daughter are killed in a senseless act of violence, a woman comes back from self-imposed exile to seek revenge against those responsible and the system that let them go free.",
+        "year": 2018,
+        "rating": 6.5,
+        "stars": [
+            "Jennifer Garner",
+            "John Gallagher Jr.",
+            "John Ortiz",
+            "Juan Pablo Raba"
+        ],
+        "directors": [
+            "Pierre Morel"
+        ],
+        "genre": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c4"
+        },
+        "id": 17,
+        "title": "Deadpool 2",
+        "runtime": 119,
+        "summary": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.",
+        "year": 2018,
+        "rating": 7.8,
+        "stars": [
+            "Ryan Reynolds",
+            "Josh Brolin",
+            "Morena Baccarin",
+            "Julian Dennison"
+        ],
+        "directors": [
+            "David Leitch"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c5"
+        },
+        "id": 18,
+        "title": "Homem-Aranha: Longe de Casa",
+        "runtime": 0,
+        "summary": "After the events of Avengers: Endgame Peter Parker and his friends go on summer vacation to Europe and there Peter finds himself trying to save his friends against a villain known as Mysterio.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Zendaya",
+            "Jake Gyllenhaal",
+            "Tom Holland",
+            "Jon Favreau"
+        ],
+        "directors": [
+            "Jon Watts"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c6"
+        },
+        "id": 19,
+        "title": "O Protetor 2",
+        "runtime": 121,
+        "summary": "Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?",
+        "year": 2018,
+        "rating": 6.8,
+        "stars": [
+            "Denzel Washington",
+            "Pedro Pascal",
+            "Ashton Sanders",
+            "Orson Bean"
+        ],
+        "directors": [
+            "Antoine Fuqua"
+        ],
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c7"
+        },
+        "id": 20,
+        "title": "Megatubarão",
+        "runtime": 113,
+        "summary": "After escaping an attack by what he claims was a 70-foot shark, Jonas Taylor must confront his fears to save those trapped in a sunken submersible.",
+        "year": 2018,
+        "rating": 5.8,
+        "stars": [
+            "Jason Statham",
+            "Bingbing Li",
+            "Rainn Wilson",
+            "Cliff Curtis"
+        ],
+        "directors": [
+            "Jon Turteltaub"
+        ],
+        "genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c8"
+        },
+        "id": 21,
+        "title": "Homem-Formiga e a Vespa",
+        "runtime": 118,
+        "summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+        "year": 2018,
+        "rating": 7.2,
+        "stars": [
+            "Paul Rudd",
+            "Evangeline Lilly",
+            "Michael Peña",
+            "Walton Goggins"
+        ],
+        "directors": [
+            "Peyton Reed"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36c9"
+        },
+        "id": 22,
+        "title": "Assassination Nation",
+        "runtime": 108,
+        "summary": "After a malicious data hack exposes the secrets of the perpetually American town of Salem, chaos decends and four girls must fight to survive, while coping with the hack themselves.",
+        "year": 2018,
+        "rating": 6,
+        "stars": [
+            "Odessa Young",
+            "Abra",
+            "Suki Waterhouse",
+            "Hari Nef"
+        ],
+        "directors": [
+            "Sam Levinson"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ca"
+        },
+        "id": 23,
+        "title": "Os Incríveis 2",
+        "runtime": 118,
+        "summary": "Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world.",
+        "year": 2018,
+        "rating": 7.8,
+        "stars": [
+            "Craig T. Nelson",
+            "Holly Hunter",
+            "Sarah Vowell",
+            "Huck Milner"
+        ],
+        "directors": [
+            "Brad Bird"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36cb"
+        },
+        "id": 24,
+        "title": "Duro de Matar",
+        "runtime": 132,
+        "summary": "John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "year": 1988,
+        "rating": 8.2,
+        "stars": [
+            "Bruce Willis",
+            "Alan Rickman",
+            "Bonnie Bedelia",
+            "Reginald VelJohnson"
+        ],
+        "directors": [
+            "John McTiernan"
+        ],
+        "genre": [
+            "Action",
+            "Thriller"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36cc"
+        },
+        "id": 25,
+        "title": "Pantera Negra",
+        "runtime": 134,
+        "summary": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        "year": 2018,
+        "rating": 7.4,
+        "stars": [
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Lupita Nyong'o",
+            "Danai Gurira"
+        ],
+        "directors": [
+            "Ryan Coogler"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36cd"
+        },
+        "id": 26,
+        "title": "Mandy (I)",
+        "runtime": 121,
+        "summary": "The enchanted lives of a couple in a secluded forest are brutally shattered by a nightmarish hippie cult and their demon-biker henchmen, propelling a man into a spiraling, surreal rampage of vengeance.",
+        "year": 2018,
+        "rating": 6.7,
+        "stars": [
+            "Nicolas Cage",
+            "Andrea Riseborough",
+            "Linus Roache",
+            "Ned Dennehy"
+        ],
+        "directors": [
+            "Panos Cosmatos"
+        ],
+        "genre": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ce"
+        },
+        "id": 27,
+        "title": "Triple Frontier",
+        "runtime": 0,
+        "summary": "Five former Special Forces operatives reunite to plan a heist in a sparsely populated multi-border zone of South America. For the first time in their prestigious careers these unsung heroes...                See full summary »",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Ben Affleck",
+            "Pedro Pascal",
+            "Charlie Hunnam",
+            "Oscar Isaac"
+        ],
+        "directors": [
+            "J.C. Chandor"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36cf"
+        },
+        "id": 28,
+        "title": "Operação Overlord",
+        "runtime": 110,
+        "summary": "A small group of American soldiers find horror behind enemy lines on the eve of D-Day.",
+        "year": 2018,
+        "rating": 7.1,
+        "stars": [
+            "Jovan Adepo",
+            "Wyatt Russell",
+            "Mathilde Ollivier",
+            "Pilou Asbæk"
+        ],
+        "directors": [
+            "Julius Avery"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Horror"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d0"
+        },
+        "id": 29,
+        "title": "Legítimo Rei",
+        "runtime": 121,
+        "summary": "A true David vs. Goliath story of how the 14th century Scottish 'Outlaw King' Robert the Bruce used cunning and bravery to defeat the much larger and better equipped occupying English army.",
+        "year": 2018,
+        "rating": 7,
+        "stars": [
+            "Chris Pine",
+            "Stephen Dillane",
+            "Rebecca Robin",
+            "Billy Howle"
+        ],
+        "directors": [
+            "David Mackenzie"
+        ],
+        "genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d1"
+        },
+        "id": 30,
+        "title": "Crimes em Happytime",
+        "runtime": 91,
+        "summary": "When the puppet cast of a '90s children's TV show begin to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.",
+        "year": 2018,
+        "rating": 5.3,
+        "stars": [
+            "Melissa McCarthy",
+            "Elizabeth Banks",
+            "Maya Rudolph",
+            "Leslie David Baker"
+        ],
+        "directors": [
+            "Brian Henson"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d2"
+        },
+        "id": 31,
+        "title": "22 Milhas",
+        "runtime": 94,
+        "summary": "An elite American intelligence officer, aided by a top-secret tactical command unit, tries to smuggle a mysterious police officer with sensitive information out of Indonesia.",
+        "year": 2018,
+        "rating": 6.1,
+        "stars": [
+            "Mark Wahlberg",
+            "Lauren Cohan",
+            "Iko Uwais",
+            "John Malkovich"
+        ],
+        "directors": [
+            "Peter Berg"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d3"
+        },
+        "id": 32,
+        "title": "Hellboy",
+        "runtime": 0,
+        "summary": "Based on the graphic novels by Mike Mignola, Hellboy, caught between the worlds of the supernatural and human, battles an ancient sorceress bent on revenge.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Milla Jovovich",
+            "Ian McShane",
+            "David Harbour",
+            "Sasha Lane"
+        ],
+        "directors": [
+            "Neil Marshall"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d4"
+        },
+        "id": 33,
+        "title": "Shazam!",
+        "runtime": 0,
+        "summary": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson's case, by shouting out one word - SHAZAM! - this streetwise 14-year-old foster kid can turn into the adult superhero Shazam.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Zachary Levi",
+            "Mark Strong",
+            "Michelle Borth",
+            "Djimon Hounsou"
+        ],
+        "directors": [
+            "David F. Sandberg"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d5"
+        },
+        "id": 34,
+        "title": "Liga da Justiça",
+        "runtime": 120,
+        "summary": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy.",
+        "year": 2017,
+        "rating": 6.5,
+        "stars": [
+            "Ben Affleck",
+            "Gal Gadot",
+            "Jason Momoa",
+            "Ezra Miller"
+        ],
+        "directors": [
+            "Zack Snyder"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d6"
+        },
+        "id": 35,
+        "title": "Como Treinar o Seu Dragão 3",
+        "runtime": 0,
+        "summary": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless' discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup's reign ...                See full summary »",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Cate Blanchett",
+            "Kit Harington",
+            "Gerard Butler",
+            "Jonah Hill"
+        ],
+        "directors": [
+            "Dean DeBlois"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d7"
+        },
+        "id": 36,
+        "title": "Han Solo: Uma História Star Wars",
+        "runtime": 135,
+        "summary": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+        "year": 2018,
+        "rating": 7,
+        "stars": [
+            "Alden Ehrenreich",
+            "Woody Harrelson",
+            "Emilia Clarke",
+            "Donald Glover"
+        ],
+        "directors": [
+            "Ron Howard"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d8"
+        },
+        "id": 37,
+        "title": "Doutor Estranho",
+        "runtime": 115,
+        "summary": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+        "year": 2016,
+        "rating": 7.5,
+        "stars": [
+            "Benedict Cumberbatch",
+            "Chiwetel Ejiofor",
+            "Rachel McAdams",
+            "Benedict Wong"
+        ],
+        "directors": [
+            "Scott Derrickson"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36d9"
+        },
+        "id": 38,
+        "title": "Thor: Ragnarok",
+        "runtime": 130,
+        "summary": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        "year": 2017,
+        "rating": 7.9,
+        "stars": [
+            "Chris Hemsworth",
+            "Tom Hiddleston",
+            "Cate Blanchett",
+            "Mark Ruffalo"
+        ],
+        "directors": [
+            "Taika Waititi"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36da"
+        },
+        "id": 39,
+        "title": "John Wick: Chapter 3",
+        "runtime": 0,
+        "summary": "The third installment of the 'John Wick' series.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Keanu Reeves",
+            "Jason Mantzoukas",
+            "Ian McShane",
+            "Halle Berry"
+        ],
+        "directors": [
+            "Chad Stahelski"
+        ],
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36db"
+        },
+        "id": 40,
+        "title": "Dragon Ball Super: Broly",
+        "runtime": 100,
+        "summary": "Goku and Vegeta encounter Broly, a Saiyan warrior unlike any fighter they've faced before.",
+        "year": 2018,
+        "rating": 9.6,
+        "stars": [
+            "Sean Schemmel",
+            "Christopher Sabat",
+            "Vic Mignogna",
+            "Chris Ayres"
+        ],
+        "directors": [
+            "Tatsuya Nagamine"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36dc"
+        },
+        "id": 41,
+        "title": "Jurassic World: Reino Ameaçado",
+        "runtime": 128,
+        "summary": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+        "year": 2018,
+        "rating": 6.2,
+        "stars": [
+            "Chris Pratt",
+            "Bryce Dallas Howard",
+            "Rafe Spall",
+            "Justice Smith"
+        ],
+        "directors": [
+            "J.A. Bayona"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36dd"
+        },
+        "id": 42,
+        "title": "Oito Mulheres e um Segredo",
+        "runtime": 110,
+        "summary": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala.",
+        "year": 2018,
+        "rating": 6.2,
+        "stars": [
+            "Sandra Bullock",
+            "Cate Blanchett",
+            "Anne Hathaway",
+            "Mindy Kaling"
+        ],
+        "directors": [
+            "Gary Ross"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36de"
+        },
+        "id": 43,
+        "title": "O Peso do Passado",
+        "runtime": 120,
+        "summary": "A police detective reconnects with people from an undercover assignment in her distant past in order to make peace.",
+        "year": 2018,
+        "rating": 6.7,
+        "stars": [
+            "Nicole Kidman",
+            "Toby Kebbell",
+            "Tatiana Maslany",
+            "Sebastian Stan"
+        ],
+        "directors": [
+            "Karyn Kusama"
+        ],
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36df"
+        },
+        "id": 44,
+        "title": "Homem-Aranha: De Volta ao Lar",
+        "runtime": 133,
+        "summary": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+        "year": 2017,
+        "rating": 7.5,
+        "stars": [
+            "Tom Holland",
+            "Michael Keaton",
+            "Robert Downey Jr.",
+            "Marisa Tomei"
+        ],
+        "directors": [
+            "Jon Watts"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e0"
+        },
+        "id": 45,
+        "title": "Millennium: A Garota na Teia de Aranha",
+        "runtime": 117,
+        "summary": "Young computer hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.",
+        "year": 2018,
+        "rating": 6.1,
+        "stars": [
+            "Claire Foy",
+            "Beau Gadsdon",
+            "Sverrir Gudnason",
+            "Lakeith Stanfield"
+        ],
+        "directors": [
+            "Fede Alvarez"
+        ],
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e1"
+        },
+        "id": 46,
+        "title": "Rampage: Destruição Total",
+        "runtime": 107,
+        "summary": "When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.",
+        "year": 2018,
+        "rating": 6.1,
+        "stars": [
+            "Dwayne Johnson",
+            "Naomie Harris",
+            "Malin Akerman",
+            "Jeffrey Dean Morgan"
+        ],
+        "directors": [
+            "Brad Peyton"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e2"
+        },
+        "id": 47,
+        "title": "Untitled Terminator Reboot",
+        "runtime": 0,
+        "summary": "Plot unknown.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Arnold Schwarzenegger",
+            "Mackenzie Davis",
+            "Linda Hamilton",
+            "Brett Azar"
+        ],
+        "directors": [
+            "Tim Miller"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e3"
+        },
+        "id": 48,
+        "title": "X-Men: Fênix Negra",
+        "runtime": 0,
+        "summary": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to decide if the life of a team member is worth more than all the people living in the world.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Jennifer Lawrence",
+            "Jessica Chastain",
+            "James McAvoy",
+            "Sophie Turner"
+        ],
+        "directors": [
+            "Simon Kinberg"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e4"
+        },
+        "id": 49,
+        "title": "O Senhor dos Anéis: O Retorno do Rei",
+        "runtime": 201,
+        "summary": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "year": 2003,
+        "rating": 8.9,
+        "stars": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ],
+        "directors": [
+            "Peter Jackson"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e5"
+        },
+        "id": 50,
+        "title": "Tomb Raider: A Origem",
+        "runtime": 119,
+        "summary": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father disappeared.",
+        "year": 2018,
+        "rating": 6.4,
+        "stars": [
+            "Alicia Vikander",
+            "Dominic West",
+            "Walton Goggins",
+            "Daniel Wu"
+        ],
+        "directors": [
+            "Roar Uthaug"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e6"
+        },
+        "id": 1,
+        "title": "Homem-Aranha no Aranhaverso",
+        "runtime": 117,
+        "summary": "Miles Morales becomes the Spider-Man of his reality and crosses paths with his counterparts from other dimensions to stop a threat to all reality.",
+        "year": 2018,
+        "rating": 8.8,
+        "stars": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld",
+            "Mahershala Ali"
+        ],
+        "directors": [
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "Rodney Rothman"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e7"
+        },
+        "id": 2,
+        "title": "Dumplin'",
+        "runtime": 110,
+        "summary": "Willowdean ('Dumplin'), the plus-size teenage daughter of a former beauty queen, signs up for her mom's Miss Teen Bluebonnet pageant as a protest that escalates when other contestants follow her footsteps, revolutionizing the pageant and their small Texas town.",
+        "year": 2018,
+        "rating": 7,
+        "stars": [
+            "Danielle Macdonald",
+            "Jennifer Aniston",
+            "Odeya Rush",
+            "Maddie Baillio"
+        ],
+        "directors": [
+            "Anne Fletcher"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e8"
+        },
+        "id": 3,
+        "title": "Um Pequeno Favor",
+        "runtime": 117,
+        "summary": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+        "year": 2018,
+        "rating": 7,
+        "stars": [
+            "Anna Kendrick",
+            "Blake Lively",
+            "Henry Golding",
+            "Andrew Rannells"
+        ],
+        "directors": [
+            "Paul Feig"
+        ],
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36e9"
+        },
+        "id": 4,
+        "title": "Crônicas de Natal",
+        "runtime": 104,
+        "summary": "The story of sister and brother, Kate and Teddy Pierce, whose Christmas Eve plan to catch Santa Claus on camera turns into an unexpected journey that most kids could only dream about.",
+        "year": 2018,
+        "rating": 7.2,
+        "stars": [
+            "Kurt Russell",
+            "Darby Camp",
+            "Judah Lewis",
+            "Oliver Hudson"
+        ],
+        "directors": [
+            "Clay Kaytis"
+        ],
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ea"
+        },
+        "id": 5,
+        "title": "WiFi Ralph: Quebrando a Internet",
+        "runtime": 112,
+        "summary": "Six years after the events of \"Wreck-It Ralph,\" Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.",
+        "year": 2018,
+        "rating": 7.5,
+        "stars": [
+            "John C. Reilly",
+            "Sarah Silverman",
+            "Gal Gadot",
+            "Taraji P. Henson"
+        ],
+        "directors": [
+            "Phil Johnston",
+            "Rich Moore"
+        ],
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36eb"
+        },
+        "id": 6,
+        "title": "O Grinch",
+        "runtime": 86,
+        "summary": "A grumpy Grinch plots to ruin Christmas for the village of Whoville.",
+        "year": 2018,
+        "rating": 6.4,
+        "stars": [
+            "Benedict Cumberbatch",
+            "Cameron Seely",
+            "Rashida Jones",
+            "Pharrell Williams"
+        ],
+        "directors": [
+            "Yarrow Cheney",
+            "Scott Mosier"
+        ],
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ec"
+        },
+        "id": 7,
+        "title": "O Retorno de Mary Poppins",
+        "runtime": 130,
+        "summary": "Decades after her original visit, the magical nanny returns to help the Banks siblings and Michael's children through a difficult time in their lives.",
+        "year": 2018,
+        "rating": 7.2,
+        "stars": [
+            "Emily Blunt",
+            "Lin-Manuel Miranda",
+            "Ben Whishaw",
+            "Emily Mortimer"
+        ],
+        "directors": [
+            "Rob Marshall"
+        ],
+        "genre": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ed"
+        },
+        "id": 8,
+        "title": "The Ballad of Buster Scruggs",
+        "runtime": 133,
+        "summary": "An anthology film comprising six stories, each dealing with a different aspect of life in the Old West.",
+        "year": 2018,
+        "rating": 7.4,
+        "stars": [
+            "Tim Blake Nelson",
+            "Willie Watson",
+            "Clancy Brown",
+            "Danny McCarthy"
+        ],
+        "directors": [
+            "Ethan Coen",
+            "Joel Coen"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Musical"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ee"
+        },
+        "id": 9,
+        "title": "Vice (I)",
+        "runtime": 132,
+        "summary": "The story of Dick Cheney (Christian Bale), an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that we still feel today.",
+        "year": 2018,
+        "rating": 6.9,
+        "stars": [
+            "Christian Bale",
+            "Amy Adams",
+            "Steve Carell",
+            "Sam Rockwell"
+        ],
+        "directors": [
+            "Adam McKay"
+        ],
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ef"
+        },
+        "id": 10,
+        "title": "A Favorita",
+        "runtime": 119,
+        "summary": "In early 18th century England, a frail Queen Anne (Colman) occupies the throne and her close friend Lady Sarah (Weisz) governs the country in her stead. When a new servant Abigail (Stone) arrives, her charm endears her to Sarah.",
+        "year": 2018,
+        "rating": 8.3,
+        "stars": [
+            "Olivia Colman",
+            "Emma Stone",
+            "Rachel Weisz",
+            "Nicholas Hoult"
+        ],
+        "directors": [
+            "Yorgos Lanthimos"
+        ],
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f0"
+        },
+        "id": 11,
+        "title": "Simplesmente Amor",
+        "runtime": 135,
+        "summary": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+        "year": 2003,
+        "rating": 7.6,
+        "stars": [
+            "Hugh Grant",
+            "Martine McCutcheon",
+            "Liam Neeson",
+            "Laura Linney"
+        ],
+        "directors": [
+            "Richard Curtis"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f1"
+        },
+        "id": 12,
+        "title": "Férias Frustradas de Natal",
+        "runtime": 97,
+        "summary": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+        "year": 1989,
+        "rating": 7.6,
+        "stars": [
+            "Chevy Chase",
+            "Beverly D'Angelo",
+            "Juliette Lewis",
+            "Johnny Galecki"
+        ],
+        "directors": [
+            "Jeremiah S. Chechik"
+        ],
+        "genre": [
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f2"
+        },
+        "id": 13,
+        "title": "Deadpool 2",
+        "runtime": 119,
+        "summary": "Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.",
+        "year": 2018,
+        "rating": 7.8,
+        "stars": [
+            "Ryan Reynolds",
+            "Josh Brolin",
+            "Morena Baccarin",
+            "Julian Dennison"
+        ],
+        "directors": [
+            "David Leitch"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f3"
+        },
+        "id": 14,
+        "title": "Esqueceram de Mim",
+        "runtime": 103,
+        "summary": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+        "year": 1990,
+        "rating": 7.5,
+        "stars": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern",
+            "John Heard"
+        ],
+        "directors": [
+            "Chris Columbus"
+        ],
+        "genre": [
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f4"
+        },
+        "id": 15,
+        "title": "O Grinch",
+        "runtime": 104,
+        "summary": "On the outskirts of Whoville, there lives a green, revenge-seeking Grinch who plans on ruining the Christmas holiday for all of the citizens of the town.",
+        "year": 2000,
+        "rating": 6.1,
+        "stars": [
+            "Jim Carrey",
+            "Taylor Momsen",
+            "Kelley",
+            "Jeffrey Tambor"
+        ],
+        "directors": [
+            "Ron Howard"
+        ],
+        "genre": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f5"
+        },
+        "id": 16,
+        "title": "PéPequeno",
+        "runtime": 96,
+        "summary": "A Yeti is convinced that the elusive creatures known as \"humans\" really do exist.",
+        "year": 2018,
+        "rating": 6.7,
+        "stars": [
+            "Channing Tatum",
+            "James Corden",
+            "Zendaya",
+            "Common"
+        ],
+        "directors": [
+            "Karey Kirkpatrick",
+            "Jason Reisig"
+        ],
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f6"
+        },
+        "id": 17,
+        "title": "Podres de Ricos",
+        "runtime": 120,
+        "summary": "This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
+        "year": 2018,
+        "rating": 7.1,
+        "stars": [
+            "Constance Wu",
+            "Henry Golding",
+            "Michelle Yeoh",
+            "Gemma Chan"
+        ],
+        "directors": [
+            "Jon M. Chu"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f7"
+        },
+        "id": 18,
+        "title": "Bem-vindos a Marwen",
+        "runtime": 116,
+        "summary": "A victim of a brutal attack finds a unique and beautiful therapeutic outlet to help him through his recovery process.",
+        "year": 2018,
+        "rating": 0,
+        "stars": [
+            "Eiza González",
+            "Steve Carell",
+            "Leslie Mann",
+            "Diane Kruger"
+        ],
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f8"
+        },
+        "id": 19,
+        "title": "Homem-Aranha: Longe de Casa",
+        "runtime": 0,
+        "summary": "After the events of Avengers: Endgame Peter Parker and his friends go on summer vacation to Europe and there Peter finds himself trying to save his friends against a villain known as Mysterio.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Zendaya",
+            "Jake Gyllenhaal",
+            "Tom Holland",
+            "Jon Favreau"
+        ],
+        "directors": [
+            "Jon Watts"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36f9"
+        },
+        "id": 20,
+        "title": "Green Book: O Guia",
+        "runtime": 130,
+        "summary": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "year": 2018,
+        "rating": 8.3,
+        "stars": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini",
+            "Sebastian Maniscalco"
+        ],
+        "directors": [
+            "Peter Farrelly"
+        ],
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36fa"
+        },
+        "id": 21,
+        "title": "Under the Silver Lake",
+        "runtime": 139,
+        "summary": "Sam, intelligent but without purpose, finds a mysterious woman swimming in his apartment's pool one night. The next morning, she disappears. Sam sets off across LA to find her, and along the way he uncovers a conspiracy far more bizarre.",
+        "year": 2018,
+        "rating": 6.5,
+        "stars": [
+            "Andrew Garfield",
+            "Riley Keough",
+            "Topher Grace",
+            "Callie Hernandez"
+        ],
+        "directors": [
+            "David Robert Mitchell"
+        ],
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36fb"
+        },
+        "id": 22,
+        "title": "De Repente Uma Família",
+        "runtime": 118,
+        "summary": "A couple find themselves in over their heads when they foster three children.",
+        "year": 2018,
+        "rating": 7.6,
+        "stars": [
+            "Mark Wahlberg",
+            "Rose Byrne",
+            "Isabela Moner",
+            "Gustavo Quiroz"
+        ],
+        "directors": [
+            "Sean Anders"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36fc"
+        },
+        "id": 23,
+        "title": "Um Duende em Nova York",
+        "runtime": 97,
+        "summary": "After inadvertently wreaking havoc on the elf community due to his ungainly size, a man raised as an elf at the North Pole is sent to the U.S. in search of his true identity.",
+        "year": 2003,
+        "rating": 6.9,
+        "stars": [
+            "Will Ferrell",
+            "James Caan",
+            "Bob Newhart",
+            "Zooey Deschanel"
+        ],
+        "directors": [
+            "Jon Favreau"
+        ],
+        "genre": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36fd"
+        },
+        "id": 24,
+        "title": "Homem-Formiga e a Vespa",
+        "runtime": 118,
+        "summary": "As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+        "year": 2018,
+        "rating": 7.2,
+        "stars": [
+            "Paul Rudd",
+            "Evangeline Lilly",
+            "Michael Peña",
+            "Walton Goggins"
+        ],
+        "directors": [
+            "Peyton Reed"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36fe"
+        },
+        "id": 25,
+        "title": "Assassination Nation",
+        "runtime": 108,
+        "summary": "After a malicious data hack exposes the secrets of the perpetually American town of Salem, chaos decends and four girls must fight to survive, while coping with the hack themselves.",
+        "year": 2018,
+        "rating": 6,
+        "stars": [
+            "Odessa Young",
+            "Abra",
+            "Suki Waterhouse",
+            "Hari Nef"
+        ],
+        "directors": [
+            "Sam Levinson"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de36ff"
+        },
+        "id": 26,
+        "title": "Once Upon a Time in Hollywood",
+        "runtime": 0,
+        "summary": "A faded TV actor and his stunt double embark on an odyssey to make a name for themselves in the film industry during the Helter Skelter reign of terror in 1969 Los Angeles.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Margot Robbie",
+            "Kurt Russell",
+            "Leonardo DiCaprio",
+            "Brad Pitt"
+        ],
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3700"
+        },
+        "id": 27,
+        "title": "Os Incríveis 2",
+        "runtime": 118,
+        "summary": "Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world.",
+        "year": 2018,
+        "rating": 7.8,
+        "stars": [
+            "Craig T. Nelson",
+            "Holly Hunter",
+            "Sarah Vowell",
+            "Huck Milner"
+        ],
+        "directors": [
+            "Brad Bird"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3701"
+        },
+        "id": 28,
+        "title": "Natal Branco",
+        "runtime": 120,
+        "summary": "A successful song-and-dance team become romantically involved with a sister act and team up to save the failing Vermont inn of their former commanding general.",
+        "year": 1954,
+        "rating": 7.6,
+        "stars": [
+            "Bing Crosby",
+            "Danny Kaye",
+            "Rosemary Clooney",
+            "Vera-Ellen"
+        ],
+        "directors": [
+            "Michael Curtiz"
+        ],
+        "genre": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3702"
+        },
+        "id": 29,
+        "title": "Meu Papai é Noel",
+        "runtime": 97,
+        "summary": "When a man inadvertantly kills Santa on Christmas Eve, he finds himself magically recruited to take his place.",
+        "year": 1994,
+        "rating": 6.4,
+        "stars": [
+            "Tim Allen",
+            "Judge Reinhold",
+            "Wendy Crewson",
+            "Eric Lloyd"
+        ],
+        "directors": [
+            "John Pasquin"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3703"
+        },
+        "id": 30,
+        "title": "O Expresso Polar",
+        "runtime": 100,
+        "summary": "On Christmas Eve, a young boy embarks on a magical adventure to the North Pole on the Polar Express, while learning about friendship, bravery, and the spirit of Christmas.",
+        "year": 2004,
+        "rating": 6.6,
+        "stars": [
+            "Tom Hanks",
+            "Chris Coppola",
+            "Michael Jeter",
+            "Leslie Zemeckis"
+        ],
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3704"
+        },
+        "id": 31,
+        "title": "Crimes em Happytime",
+        "runtime": 91,
+        "summary": "When the puppet cast of a '90s children's TV show begin to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.",
+        "year": 2018,
+        "rating": 5.3,
+        "stars": [
+            "Melissa McCarthy",
+            "Elizabeth Banks",
+            "Maya Rudolph",
+            "Leslie David Baker"
+        ],
+        "directors": [
+            "Brian Henson"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3705"
+        },
+        "id": 32,
+        "title": "O Mistério do Relógio na Parede",
+        "runtime": 105,
+        "summary": "A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
+        "year": 2018,
+        "rating": 6.1,
+        "stars": [
+            "Jack Black",
+            "Cate Blanchett",
+            "Owen Vaccaro",
+            "Kyle MacLachlan"
+        ],
+        "directors": [
+            "Eli Roth"
+        ],
+        "genre": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3706"
+        },
+        "id": 33,
+        "title": "Uma Nova Chance",
+        "runtime": 103,
+        "summary": "A big box store worker reinvents her life and her life-story and shows Madison Avenue what street smarts can do.",
+        "year": 2018,
+        "rating": 5.9,
+        "stars": [
+            "Vanessa Hudgens",
+            "Milo Ventimiglia",
+            "Jennifer Lopez",
+            "Leah Remini"
+        ],
+        "directors": [
+            "Peter Segal"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3707"
+        },
+        "id": 34,
+        "title": "Esqueceram de Mim 2: Perdido em Nova York",
+        "runtime": 120,
+        "summary": "One year after Kevin McCallister was left home alone and had to defeat a pair of bumbling burglars, he accidentally finds himself stranded in New York City - and the same criminals are not far behind.",
+        "year": 1992,
+        "rating": 6.7,
+        "stars": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern",
+            "Catherine O'Hara"
+        ],
+        "directors": [
+            "Chris Columbus"
+        ],
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3708"
+        },
+        "id": 35,
+        "title": "Holmes & Watson",
+        "runtime": 89,
+        "summary": "A humorous take on Sir Arthur Conan Doyle's classic mysteries featuring Sherlock Holmes and Doctor Watson.",
+        "year": 2018,
+        "rating": 0,
+        "stars": [
+            "Will Ferrell",
+            "John C. Reilly",
+            "Ralph Fiennes",
+            "Lauren Lapkus"
+        ],
+        "directors": [
+            "Etan Cohen"
+        ],
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3709"
+        },
+        "id": 36,
+        "title": "Como Treinar o Seu Dragão 3",
+        "runtime": 0,
+        "summary": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless' discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup's reign ...                See full summary »",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Cate Blanchett",
+            "Kit Harington",
+            "Gerard Butler",
+            "Jonah Hill"
+        ],
+        "directors": [
+            "Dean DeBlois"
+        ],
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de370a"
+        },
+        "id": 37,
+        "title": "O Amor Não Tira Férias",
+        "runtime": 138,
+        "summary": "Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.",
+        "year": 2006,
+        "rating": 6.9,
+        "stars": [
+            "Kate Winslet",
+            "Cameron Diaz",
+            "Jude Law",
+            "Jack Black"
+        ],
+        "directors": [
+            "Nancy Meyers"
+        ],
+        "genre": [
+            "Comedy",
+            "Romance"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de370b"
+        },
+        "id": 38,
+        "title": "The Festival",
+        "runtime": 98,
+        "summary": "After Nick's girlfriend dumps him, his best mate Shane has the perfect antidote to his break-up blues: three days at an epic music festival.",
+        "year": 2018,
+        "rating": 6,
+        "stars": [
+            "Joe Thomas",
+            "Hannah Tointon",
+            "Hammed Animashaun",
+            "Hugh Coles"
+        ],
+        "directors": [
+            "Iain Morris"
+        ],
+        "genre": [
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de370c"
+        },
+        "id": 39,
+        "title": "Uma História de Natal",
+        "runtime": 94,
+        "summary": "In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher and Santa that a Red Ryder BB gun really is the perfect Christmas gift.",
+        "year": 1983,
+        "rating": 8,
+        "stars": [
+            "Peter Billingsley",
+            "Melinda Dillon",
+            "Darren McGavin",
+            "Scott Schwartz"
+        ],
+        "directors": [
+            "Bob Clark"
+        ],
+        "genre": [
+            "Comedy",
+            "Family"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de370d"
+        },
+        "id": 40,
+        "title": "Sorry to Bother You",
+        "runtime": 111,
+        "summary": "In an alternate present-day version of Oakland, telemarketer Cassius Green discovers a magical key to professional success, propelling him into a universe of greed.",
+        "year": 2018,
+        "rating": 7,
+        "stars": [
+            "Lakeith Stanfield",
+            "Tessa Thompson",
+            "Jermaine Fowler",
+            "Omari Hardwick"
+        ],
+        "directors": [
+            "Boots Riley"
+        ],
+        "genre": [
+            "Comedy",
+            "Fantasy",
+            "Sci-Fi"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de370e"
+        },
+        "id": 41,
+        "title": "Meu Papai é Noel 2",
+        "runtime": 104,
+        "summary": "Scott Calvin has been a humble Santa Claus for nearly ten years, but it might come to an end if he doesn't find a Mrs. Claus.",
+        "year": 2002,
+        "rating": 5.6,
+        "stars": [
+            "Tim Allen",
+            "Spencer Breslin",
+            "Elizabeth Mitchell",
+            "Eric Lloyd"
+        ],
+        "directors": [
+            "Michael Lembeck"
+        ],
+        "genre": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de370f"
+        },
+        "id": 42,
+        "title": "Thor: Ragnarok",
+        "runtime": 130,
+        "summary": "Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        "year": 2017,
+        "rating": 7.9,
+        "stars": [
+            "Chris Hemsworth",
+            "Tom Hiddleston",
+            "Cate Blanchett",
+            "Mark Ruffalo"
+        ],
+        "directors": [
+            "Taika Waititi"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3710"
+        },
+        "id": 43,
+        "title": "O Lagosta",
+        "runtime": 119,
+        "summary": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into beasts and sent off into The Woods.",
+        "year": 2015,
+        "rating": 7.1,
+        "stars": [
+            "Colin Farrell",
+            "Rachel Weisz",
+            "Jessica Barden",
+            "Olivia Colman"
+        ],
+        "directors": [
+            "Yorgos Lanthimos"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3711"
+        },
+        "id": 44,
+        "title": "Operação Supletivo: Agora Vai!",
+        "runtime": 111,
+        "summary": "A group of troublemakers are forced to attend night school in hope that they'll pass the GED exam to finish high school.",
+        "year": 2018,
+        "rating": 5.5,
+        "stars": [
+            "Ben Schwartz",
+            "Megalyn Echikunwoke",
+            "Kevin Hart",
+            "Tiffany Haddish"
+        ],
+        "directors": [
+            "Malcolm D. Lee"
+        ],
+        "genre": [
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3712"
+        },
+        "id": 45,
+        "title": "Oito Mulheres e um Segredo",
+        "runtime": 110,
+        "summary": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's yearly Met Gala.",
+        "year": 2018,
+        "rating": 6.2,
+        "stars": [
+            "Sandra Bullock",
+            "Cate Blanchett",
+            "Anne Hathaway",
+            "Mindy Kaling"
+        ],
+        "directors": [
+            "Gary Ross"
+        ],
+        "genre": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3713"
+        },
+        "id": 46,
+        "title": "Mary Poppins",
+        "runtime": 139,
+        "summary": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.",
+        "year": 1964,
+        "rating": 7.8,
+        "stars": [
+            "Julie Andrews",
+            "Dick Van Dyke",
+            "David Tomlinson",
+            "Glynis Johns"
+        ],
+        "directors": [
+            "Robert Stevenson"
+        ],
+        "genre": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3714"
+        },
+        "id": 47,
+        "title": "De Ilusão Também se Vive",
+        "runtime": 96,
+        "summary": "When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.",
+        "year": 1947,
+        "rating": 7.9,
+        "stars": [
+            "Edmund Gwenn",
+            "Maureen O'Hara",
+            "John Payne",
+            "Gene Lockhart"
+        ],
+        "directors": [
+            "George Seaton"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3715"
+        },
+        "id": 48,
+        "title": "O Grande Lebowski",
+        "runtime": 117,
+        "summary": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+        "year": 1998,
+        "rating": 8.1,
+        "stars": [
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore",
+            "Steve Buscemi"
+        ],
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "genre": [
+            "Comedy",
+            "Crime"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3716"
+        },
+        "id": 49,
+        "title": "Toy Story 4",
+        "runtime": 0,
+        "summary": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+        "year": 2019,
+        "rating": 0,
+        "stars": [
+            "Patricia Arquette",
+            "Tom Hanks",
+            "Keanu Reeves",
+            "Tim Allen"
+        ],
+        "directors": [
+            "Josh Cooley"
+        ],
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5c19606ba21d900444de3717"
+        },
+        "id": 50,
+        "title": "Mamma Mia! Lá Vamos Nós de Novo",
+        "runtime": 114,
+        "summary": "Five years after the events of Mamma Mia! O Filme (2008), Sophie prepares for the grand reopening of the Hotel Bella Donna as she learns more about her mother's past.",
+        "year": 2018,
+        "rating": 6.9,
+        "stars": [
+            "Lily James",
+            "Amanda Seyfried",
+            "Meryl Streep",
+            "Cher"
+        ],
+        "directors": [
+            "Ol Parker"
+        ],
+        "genre": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ]
+    }
+]

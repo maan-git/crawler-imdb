@@ -1,13 +1,16 @@
+from bson import json_util, ObjectId
 import json
-
 from configuration.mongodb_config import get_mongo_connection
 
 
 class Movie:
 
-    def __init__(self, id, title, year, summary, rating, stars, directors, genre):
+    def __init__(self, id: int, title: str, runtime: float, year: int, summary: str, rating: float, stars: int,
+                 directors: list,
+                 genre: list):
         self.id = id
         self.title = title
+        self.runtime = runtime
         self.year = year
         self.summary = summary
         self.rating = rating
@@ -18,6 +21,7 @@ class Movie:
     def to_dict(self):
         dict_res = {"id": self.id,
                     "title": self.title,
+                    "runtime": self.runtime,
                     "summary": self.summary,
                     "year": self.year,
                     "rating": self.rating,
@@ -43,5 +47,12 @@ class Movie:
         db = client.get_database()
         movie_db = db['movie']
         result = movie_db.insert_many(movies)
+        return result
 
-        return result.inserted_ids
+    @staticmethod
+    def get_movies():
+        client = get_mongo_connection()
+        db = client.get_database()
+        movie_db = db['movie']
+        result = movie_db.find()
+        return result

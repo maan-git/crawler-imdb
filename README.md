@@ -15,6 +15,9 @@ Framework used in this project:
 To run the application, it is necessary to perform the build of the docker compose,
 since it's done, the application can already be executed with the compose up.
 
+### mLab - MongoDB
+
+The data is stored on mLab MongoDB services.
 
 [Build] - Production environment
 

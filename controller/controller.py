@@ -1,24 +1,45 @@
 import re
+import json
+from bson import json_util, ObjectId
 from bs4 import BeautifulSoup
 
 from models.movie import Movie
 from services.imdb_service import get_webpage_service
 
 
-def imdb_crawl(limit=10, min_rating=5):
+def get_movies_imdb():
+    try:
+        movies = Movie.get_movies()
+        movies = json.loads(json_util.dumps(movies))
+
+        return movies
+
+    except Exception as ex:
+        raise ("Error during getting the movies", ex)
+
+
+def imdb_crawl(limit: int, min_rating: int):
     try:
         movies = _imdb_crawler(limit=limit, min_rating=min_rating)
         _save_movies(movies=movies)
+        movies = json.loads(json_util.dumps(movies))
+
+        return movies
 
     except Exception as ex:
         raise ("Error during crawling", ex)
 
 
-def _imdb_crawler(limit=10, min_rating=5):
+def _imdb_crawler(limit: int, min_rating: int):
+
+    # print('Limit: ', limit)
+    # genres = (
+    #     "action", "comedy", "mystery", "sci_fi", "adventure", "fantasy", "horror", "animation", "drama", "thriller")
     genres = (
-        "action", "comedy", "mystery", "sci_fi", "adventure", "fantasy", "horror", "animation", "drama", "thriller")
+        "action", "comedy", "horror", "animation", "drama")
     iteration = 0
     count = 0
+    data_movies = []
     while count < limit:
         for genre in genres:
             if count > limit:
@@ -27,30 +48,32 @@ def _imdb_crawler(limit=10, min_rating=5):
             if c == None:
                 continue
             soup = BeautifulSoup(c.data)
-            data = _make_movie_object(soup, min_rating)
+            data_movies = data_movies + _make_movie_object(soup, min_rating)
             count += 50
         iteration += 1
 
-    return data
+    return data_movies
 
 
-def _make_movie_object(soup, min_rating):
+def _make_movie_object(soup, min_rating=None):
     data = []
     div_movies = soup.findAll("div", {"class": "lister-item mode-advanced"})
     for div_movie in div_movies:
         name = _get_movie_name(div_movie)
         year = _get_movie_year(div_movie)
         movie_id = _get_movie_id(div_movie)
+        movie_runtime = _get_movie_runtime(div_movie)
         rating = _get_movie_rating(div_movie)
         stars = _get_movie_stars(div_movie)
         directors = _get_movie_directors(div_movie)
         summary = _get_movie_summary(div_movie)
         genre = _get_movie_genre(div_movie)
 
-        movie = Movie(id=movie_id, title=name, summary=summary, year=year,
+        movie = Movie(id=movie_id, title=name, runtime=movie_runtime, summary=summary, year=year,
                       rating=rating, stars=stars, directors=directors, genre=genre)
 
         data.append(movie.to_dict())
+
     return data
 
 
@@ -85,7 +108,7 @@ def _get_movie_name(div_movie):
 def _get_movie_rating(div_movie):
     div = div_movie.find("div", {"inline-block ratings-imdb-rating"})
     if div:
-        return div.strong.text
+        return float(div.strong.text)
     else:
         return 0
 
@@ -97,6 +120,7 @@ def _get_movie_stars(div_movie):
         extract = re.search('Stars:\s(.*)', text)
         res = extract.group(1)
         res = res.split(",")
+        res = [x.strip() for x in res]
         return res
 
     except Exception as ex:
@@ -115,6 +139,7 @@ def _get_movie_directors(div_movie):
             res = extract.group(2)
 
         res = res.split(",")
+        res = [x.strip() for x in res]
         return res
 
     except Exception as ex:
@@ -160,7 +185,19 @@ def _get_movie_genre(div_movie):
         print("Error getting the genre of this movie")
 
 
+def _get_movie_runtime(div_movie):
+    try:
+        text = div_movie.find("span", {"class": "runtime"}).text
+        text = text.split("min")
+        return float(text[0].replace(' ', ''))
+
+    except Exception as ex:
+        print("Error: ", ex)
+        print("Error getting the runtime of this movie")
+        return 0.0
+
+
 def _get_movie_summary(div_movie):
     text = div_movie.find_all("p", {"class": "text-muted"})[1].text
-    text = text.replace('\n', ' ')
+    text = text.replace('\n', ' ').strip()
     return text

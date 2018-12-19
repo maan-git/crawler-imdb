@@ -3,7 +3,7 @@ from flask import request, jsonify
 from app import app
 
 from controller.controller import (
-    imdb_crawl)
+    imdb_crawl, get_movies_imdb)
 
 
 @app.route('/hello', methods=['POST'])
@@ -28,3 +28,15 @@ def crawl():
     res = imdb_crawl(limit=limit, min_rating=min_rate)
 
     return jsonify(res)
+
+
+@app.route('/get_movies', methods=['GET'])
+def get_movies():
+    """
+    Crawl endpoint to crawler the data from imdb.com website
+    :return: the data crawled
+    """
+    res = get_movies_imdb()
+
+    return jsonify(res)
+
