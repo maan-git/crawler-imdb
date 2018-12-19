@@ -3,6 +3,10 @@ from flask import g
 
 
 def get_mongo_connection():
+    """
+    Gets MongoDB connection and insert it in Flask global variable 'g'
+    :return: mongo_client_connection inserted in g variable
+    """
     if 'mongo_connection_client' not in g:
         init_mongo_connection_client()
 
