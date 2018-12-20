@@ -6,6 +6,9 @@ from bs4 import BeautifulSoup
 from models.movie import Movie
 from services.imdb_service import get_webpage_service
 
+from excepts.service_errors import (
+    CrawlerHttpError
+)
 
 def get_movies_imdb():
     try:
@@ -14,11 +17,11 @@ def get_movies_imdb():
 
         return movies
 
-    except Exception as ex:
-        raise ("Error during getting the movies", ex)
+    except CrawlerHttpError as ex:
+        raise ("Error during getting the movies: ", ex)
 
 
-def imdb_crawl(limit: int, min_rating: int):
+def imdb_crawl(limit: int = 50, min_rating: int = 0):
     try:
         movies = _imdb_crawler(limit=limit, min_rating=min_rating)
         _save_movies(movies=movies)
@@ -26,8 +29,8 @@ def imdb_crawl(limit: int, min_rating: int):
 
         return movies
 
-    except Exception as ex:
-        raise ("Error during crawling", ex)
+    except CrawlerHttpError as ex:
+        raise ("Error during crawling: ", ex)
 
 
 def _imdb_crawler(limit: int, min_rating: int):
@@ -59,6 +62,9 @@ def _make_movie_object(soup, min_rating=None):
     data = []
     div_movies = soup.findAll("div", {"class": "lister-item mode-advanced"})
     for div_movie in div_movies:
+        #'bs4.element.Tag'
+        print(type(div_movie))
+
         name = _get_movie_name(div_movie)
         year = _get_movie_year(div_movie)
         movie_id = _get_movie_id(div_movie)
