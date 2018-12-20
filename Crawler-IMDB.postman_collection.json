@@ -1,0 +1,104 @@
+{
+	"info": {
+		"_postman_id": "1946b008-527d-4883-890f-ae155844013f",
+		"name": "Crawler-IMDB",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://192.168.99.100:8080/crawl",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"limit\": 50,\n\t\"min_rate\": 1\n}"
+				},
+				"url": {
+					"raw": "http://192.168.99.100:8080/crawl?",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"99",
+						"100"
+					],
+					"port": "8080",
+					"path": [
+						"crawl"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "50",
+							"disabled": true
+						},
+						{
+							"key": "minRate",
+							"value": "1",
+							"disabled": true
+						}
+					]
+				},
+				"description": "This is the collection to call the crawl endpoint which crawls the data from IMDB website and stores it in mLab service MongoDB.\n"
+			},
+			"response": []
+		},
+		{
+			"name": "http://192.168.99.100:8080/get_movies",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"limit\": 50,\n\t\"min_rate\": 1\n}"
+				},
+				"url": {
+					"raw": "http://192.168.99.100:8080/get_movies?",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"99",
+						"100"
+					],
+					"port": "8080",
+					"path": [
+						"get_movies"
+					],
+					"query": [
+						{
+							"key": "limit",
+							"value": "50",
+							"disabled": true
+						},
+						{
+							"key": "minRate",
+							"value": "1",
+							"disabled": true
+						}
+					]
+				},
+				"description": "This endpoint calls the mLab service to get all the movies."
+			},
+			"response": []
+		}
+	]
+}
