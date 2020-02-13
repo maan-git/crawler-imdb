@@ -14,3 +14,8 @@ services:
       - ./:/app
     env_file:
       - ./.env
+    environment:
+      - MONGO_URI=mongo:27017
+      - MONGO_PASSWORD_MLAB=!products_db_user2019
+      - MONGO_USER_MLAB=products_db_user
+      - MONGO_DATABE=products_db
